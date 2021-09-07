@@ -10,6 +10,8 @@ Inherits=" MJ_Basic_App_GitHub.Basic_Webform" %>
  <div>
  <% MJ_Basic_App_GitHub.Class1 tp = new MJ_Basic_App_GitHub.Class1(); %>
 
+     Test #1 for git hub ext and devops view
+
  <%=tp.Name %>
  </div>
  </form>
