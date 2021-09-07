@@ -12,6 +12,7 @@ Inherits=" MJ_Basic_App_GitHub.Basic_Webform" %>
 
      Test #1 for git hub ext and devops view
      trying pull request
+     pull request from laptop
 
  <%=tp.Name %>
  </div>
