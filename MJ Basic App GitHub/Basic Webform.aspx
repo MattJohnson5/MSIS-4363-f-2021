@@ -12,7 +12,7 @@ Inherits=" MJ_Basic_App_GitHub.Basic_Webform" %>
 
      Test #1 for git hub ext and devops view
      test 1
-
+     test pipeline
  <%=tp.Name %>
  </div>
  </form>
